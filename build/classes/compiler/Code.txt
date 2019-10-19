@@ -1,0 +1,16 @@
+public class first{
+    public static void main(string[] args){
+    
+    }
+a b = create a(
+    fun a(a:int):void{}
+a,b,c:int;
+    first(){
+super();
+this.a=b;
+a b = create a()
+}
+}
+public class first{
+   
+}
